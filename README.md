@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/DimBix](https://github.com/DimBix)
 
-- 📫 How to reach me **binosidimitri@gmail.**
+- 📫 How to reach me **binosidimitri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
