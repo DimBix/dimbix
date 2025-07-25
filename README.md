@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, I'm Dimitri B</h1>
-<h3 align="center">A passionate fresh degree student interested in Computer Architecture and Software Engineering. I've been challenching my self with new projects to learn how to apply all the theoretical concepts acquired in University.</h3>
+<h3 align="center">A passionate recent graduate interested in Computer Architecture and Software Engineering. I've been challenging myself with new projects to learn how to apply all the theoretical concepts I acquired at university.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DimBix](https://github.com/DimBix)
 
